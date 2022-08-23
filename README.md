@@ -25,14 +25,14 @@ The user should clone the repository from GitHub and download Node.js. This appl
 ## Usage Information
   
 Use inquirer from your command line to answer questions about your project.
-[Usage Video](https://drive.google.com/file/d/1BQDojeTlrF7kMJtoeiTB0x5rGSjVN0B4/view)
+[Usage Video](https://drive.google.com/file/d/1gWsDyO7TfMZywuKBNI7T_YoWeFsE-DxU/view)
 WebURL: https://tottomoe.github.io/10-TeamProfileGenerator/
 ***
 
 <a name="test"></a>
 ## Test ScreenShot
-![Screen-Shot1](./c10%20screenShot1.png)
-![Screen-Short](./c10%20screenShot.png)
+![Screen-Shot1](./screenshot2.png)
+![Screen-Short](./screenshot3.png)
 
 <a name="questions"></a>
 ## Questions
